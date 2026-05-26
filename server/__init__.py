@@ -1,0 +1,2 @@
+"""MAYDAY Python server package."""
+

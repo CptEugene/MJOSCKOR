@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build / dist
+build/
+dist/
+native/**/bin/
+native/**/obj/
+
+# Runtime artifacts
+runtime/
+assets/bin/
+
+# Local backups / external reference checkouts
+backups/
+third_party/TAC-COM/
+
+# Logs / local diagnostics
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store

@@ -1,0 +1,2 @@
+"""Cloudview Center launcher package."""
+

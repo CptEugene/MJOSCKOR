@@ -1,0 +1,2 @@
+"""Client application entry package."""
+

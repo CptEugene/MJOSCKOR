@@ -1,0 +1,8 @@
+{
+  "manifest_url": "http://14.206.48.12:42000/mayday_manifest.json",
+  "cloudview_manifest_url": "http://14.206.48.12:42000/cloudview_manifest.json",
+  "mjo_patch_manifest_url": "http://14.206.48.12:42000/mjo_patch_manifest.json",
+  "server_registry_url": "http://14.206.48.12:42000/mayday_servers.json",
+  "server_registry_heartbeat_url": "http://14.206.48.12:42000/api/mayday/servers/heartbeat",
+  "note": "Set manifest_url before production build. Runtime config is stored under the user app data folder."
+}
